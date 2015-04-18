@@ -1,48 +1,50 @@
 # TPrinterInfo
 Mit der Komponente TPrinterInfo können Sie alle relevanten Daten der installierten Drucker auf Ihrem System ermitteln und in Ihrem Programm anzeigen. Das sind folgende Properties stehen zur Verfügung :
 
-Attributes
-AveragePPM
-cJobs
-ColorPrinting
-Comment
-Datatype
-DefaultPrinter
-DefaultPrinterID
-DefaultPriority
-DriverName
-Location
-Memory
-PaperSizes
-PaperTrays
-PaperHeight
-PaperWidth
-Parameters
-PortName
-PrinterCount
-PrinterIndex
-PrinterListName
-PrinterName
-PrinterState
-PrinterStateString
-PrintProcessor
-Priority
-SepFile
-ServerName
-ShareName
-StartTime
-SupportDuplex
-UntilTime
-
+<ul type="circle">
+<li>Attributes</li>
+<li>AveragePPM</li>
+<li>cJobs</li>
+<li>ColorPrinting</li>
+<li>Comment</li>
+<li>Datatype</li>
+<li>DefaultPrinter</li>
+<li>DefaultPrinterID</li>
+<li>DefaultPriority</li>
+<li>DriverName</li>
+<li>Location</li>
+<li>Memory</li>
+<li>PaperSizes</li>
+<li>PaperTrays</li>
+<li>PaperHeight</li>
+<li>PaperWidth</li>
+<li>Parameters</li>
+<li>PortName</li>
+<li>PrinterCount</li>
+<li>PrinterIndex</li>
+<li>PrinterListName</li>
+<li>PrinterName</li>
+<li>PrinterState</li>
+<li>PrinterStateString</li>
+<li>PrintProcessor</li>
+<li>Priority</li>
+<li>SepFile</li>
+<li>ServerName</li>
+<li>ShareName</li>
+<li>StartTime</li>
+<li>SupportDuplex</li>
+<li>UntilTime</li>
+</ul>
 
 Für die Druckaufträge im Spooler stehen die folgenden Properties zur Verfügung :
 
-JobIndex
-JobName
-JobNameList
-JobOwner
-JobNumPages
-JobSize
-JobStatus
-JobSubmitTime
-
+<ul type="circle">
+<li>JobIndex</li>
+<li>JobName</li>
+<li>JobNameList</li>
+<li>JobOwner</li>
+<li>JobNumPages</li>
+<li>JobSize</li>
+<li>JobStatus</li>
+<li>JobSubmitTime</li>
+</ul>
